@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />       
   </a>&nbsp;&nbsp;
   
-  <a href="https://t.me/aryaaada">
+  <a href="https://t.me/aryaada">
     <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />       
   </a>
   
