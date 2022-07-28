@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaada&layout=compact)](https://github.com//github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaada&layout=compact)](https://github.com/aryaada/github-readme-stats)
 
 
 <!---
