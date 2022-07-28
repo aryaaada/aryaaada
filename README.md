@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋👋👋 Hello, I'm Arya Dwi Aditiya
+## Hello, I'm Arya Dwi Aditiya
 
 <p align='center'>
 
