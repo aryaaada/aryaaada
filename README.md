@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.instagram.com/aryaaada">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />       
-  </a>&nbsp;&nbsp;
+  </a>
   
   <a href="https://t.me/aryaada">
     <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />       
