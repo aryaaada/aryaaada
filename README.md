@@ -15,18 +15,6 @@ Here are some ideas to get you started:
 
 ## Hello, I'm Arya Dwi Aditiya
 
-<p align='center'>
-
-  <a href="https://www.instagram.com/aryaaada">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />       
-  </a>
-  
-  <a href="https://t.me/aryaada">
-    <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />       
-  </a>
-  
-</p>
-
 <!---
 aryaada/aryaada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
